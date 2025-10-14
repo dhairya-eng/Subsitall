@@ -144,8 +144,3 @@ npm run dev
 
 ---
 
-
-
-
-
-Would you like me to include a **`docs/architecture.md`** file alongside this — showing the architecture diagram (in text + image form) so your cofounders can review it more easily on GitHub?
