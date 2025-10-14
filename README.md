@@ -20,11 +20,6 @@
 
 ---
 
-## 🧱 System Architecture
-
-![System Architecture Diagram](./docs/architecture.png)
-*(See `/docs/architecture.png` or `architecture.md` for detailed diagrams.)*
-
 ### **High-Level Components**
 
 | Layer                    | Description                                           | Technologies                               |
